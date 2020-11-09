@@ -91,6 +91,7 @@ export const searchEngines = [
   { id: 70, label: 'Wolframalpha', url: 'http://www.wolframalpha.com/input/', param: 'i' },
   { id: 80, label: 'GitHub', url: 'https://www.github.com/search', param: 'q' },
   { id: 90, label: 'Yandex', url: 'https://yandex.com/search/', param: 'text' }
+  { id: 100, label: 'Ecosia', url: 'https://https://www.ecosia.org/search/', param: 'q' }
 ];
 
 export const bgBlend = [
